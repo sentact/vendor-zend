@@ -17,7 +17,7 @@
  * @subpackage Bootstrap
  * @copyright  Copyright (c) 2005-2010 Zend Technologies USA Inc. (http://www.zend.com)
  * @license    http://framework.zend.com/license/new-bsd     New BSD License
- * @version    $Id: BootstrapAbstract.php 20988 2010-02-08 16:44:44Z matthew $
+ * @version    $Id: BootstrapAbstract.php 22125 2010-05-05 22:23:05Z hobodave $
  */
 
 /**
