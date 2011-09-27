@@ -186,7 +186,7 @@ class Zend_Validate_File_MimeType extends Zend_Validate_Abstract
     public function setMagicFile($file)
     {
         if (empty($file)) {
-            $this->_magicfile = null;
+            $this->_magicfile = false;
         } else if (!(class_exists('finfo', false))) {
             $this->_magicfile = null;
             require_once 'Zend/Validate/Exception.php';
